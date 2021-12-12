@@ -1,0 +1,14 @@
+{
+  "name": "waifugenerator",
+  "version": "1.0.0",
+  "description": "A Generator for waifu's",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Radical06 & CookieRookie",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.4"
+  }
+}
